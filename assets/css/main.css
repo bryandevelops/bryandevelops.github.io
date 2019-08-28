@@ -2868,7 +2868,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay.png"), url("../../images/city1.jpg");
+			background-image: url("../../images/city1.jpg");
 			/* background-image: url("../../images/city1.jpg"); */
 			background-size:cover;
 		}
@@ -2954,6 +2954,7 @@ input, select, textarea {
 
 			.main.style2 ul.major-icons li .icon {
 				border-color: #ffffff;
+				background-color: #161616;
 			}
 
 			.main.style2 .icon.major {
