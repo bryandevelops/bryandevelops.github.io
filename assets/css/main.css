@@ -89,6 +89,10 @@ input, select, textarea {
 	line-height: inherit;
 }
 
+.skills {
+	overflow-wrap: break-word;
+}
+
 /* Basic */
 
 	html {
