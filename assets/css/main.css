@@ -2438,6 +2438,7 @@ a.button.scrolly {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			background-color: #d3d3d34d;
 		}
 
 			.image.fit img {
@@ -2879,15 +2880,15 @@ a.button.scrolly {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("../../images/city1.jpg");
-			/* background-image: url("../../images/city1.jpg"); */
+			background-image: url("../../images/city.jpg");
+			/* background-image: url("../../images/city.jpg"); */
 			background-size:cover;
 		}
 		.main.style2.special {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/city1.jpg");
+			background-image: url("images/overlay1.png"), url("../../images/city.jpg");
 			background-size:cover;
 		}
 
@@ -2979,7 +2980,7 @@ a.button.scrolly {
 		background-color: #020202;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("../../images/city1.jpg");
+		background-image: url("../../images/city.jpg");
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3177,7 +3178,7 @@ a.button.scrolly {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("../../images/city1.jpg");
+		background-image: url("../../images/city.jpg");
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
